@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @minusRSB
-- 🌱 I’m currently learning Python, C# and just learning programming 
 - 📫 How to reach me https://t.me/minusrsb
 - ⚡ Fun fact: just a student, nothing interesting :)
 
